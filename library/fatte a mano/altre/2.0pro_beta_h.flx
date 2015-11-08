@@ -1,0 +1,18 @@
+<lib>
+	<library name="2.0pro_beta_h" path="library/hole/">
+		<mov m="ascii_walk.swf" />
+		<mov m="time.swf" />
+		<mov m="ascii_RGBforce.swf" />
+		<mov m="ascii_force.swf" />
+		<mov m="nega_231.swf" />
+		<mov m="237_cosa_ti_farei.swf" />
+		<mov m="237_ascii_me.swf" />
+		<mov m="coolsquare06.swf" />
+		<mov m="coolsquare05.swf" />
+		<mov m="coolsquare04.swf" />
+		<mov m="scratch1.swf" />
+		<mov m="AMOEBA.swf" />
+		<mov m="strobo_2.swf" />
+		<mov m="strobo_1.swf" />
+	</library>
+</lib>

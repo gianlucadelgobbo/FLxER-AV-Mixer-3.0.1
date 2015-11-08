@@ -1,0 +1,30 @@
+<lib>
+	<library name="phag_off" path="library/_valeria/phag_off/">
+		<mov m="alberi.swf" />
+		<mov m="alberi_sfondo.swf" />
+		<mov m="baloon.swf" />
+		<mov m="chupa_bis.swf" />
+		<mov m="infrattati.swf" />
+		<mov m="jini.swf" />
+		<mov m="mickey.swf" />
+		<mov m="chitarra.swf" />
+		<mov m="cristo.swf" />
+		<mov m="cristo2.swf" />
+		<mov m="cristo22.swf" />
+		<mov m="glitty.swf" />
+		<mov m="madonna1.swf" />
+		<mov m="madonna_3.swf" />
+		<mov m="madonna_sx.swf" />
+		<mov m="madonna_trema.swf" />
+		<mov m="pistola_4.swf" />
+		<mov m="pistola_4_2.swf" />
+		<mov m="pistola_7.swf" />
+		<mov m="pistola_16.swf" />
+		<mov m="pistola_16_2.swf" />
+		<mov m="pistola_dx.swf" />
+		<mov m="pistola_sn.swf" />
+		<mov m="porco_ma_dono.swf" />
+		<mov m="porco_ma_dono1.swf" />
+		<mov m="spisello.swf" />
+	</library>
+</lib>

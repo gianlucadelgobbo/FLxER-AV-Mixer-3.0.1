@@ -1,0 +1,19 @@
+			<lib>
+			<library name="froggy_and_topo_nh.flx" path="library/no_hole/">
+<mov m="aliceporte.swf" />
+<mov m="alicesalto.swf" />
+<mov m="beat.swf" />
+<mov m="bellbill.swf" />
+<mov m="betisla.swf" />
+<mov m="bettydoor.swf" />
+<mov m="boopstairs2.swf" />
+<mov m="fumoJB.swf" />
+<mov m="ghw1.swf" />
+<mov m="misoJB.swf" />
+<mov m="narc4.swf" />
+<mov m="narc5.swf" />
+<mov m="paurina2.swf" />
+<mov m="tavalice.swf" />
+<mov m="zoo.swf" />
+</library>
+</lib>

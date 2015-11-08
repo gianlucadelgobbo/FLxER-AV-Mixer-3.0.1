@@ -1,0 +1,12 @@
+<lib>
+	<library name="default_ks" path="library/koncepts/">
+		<mov m="Ctrlzero.txt" />
+		<mov m="Ctrlzero_1.txt" />
+		<mov m="Ctrlzero_2.txt" />
+
+		<mov m="elettropassion.txt" />
+		<mov m="fattiascoltare.txt" />
+		<mov m="feedback.txt" />
+		<mov m="lightconcept.txt" />
+	</library>
+</lib>

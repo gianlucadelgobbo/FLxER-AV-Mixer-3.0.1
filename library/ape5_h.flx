@@ -1,0 +1,14 @@
+			<lib>
+			<library name="ape5_h.flx" path="library/hole/">
+<mov m="arancio.swf" />
+<mov m="aranciotrattini.swf" />
+<mov m="arcobalenopulse.swf" />
+<mov m="astrattosublu.swf" />
+<mov m="fungorotante.swf" />
+<mov m="linguabassa.swf" />
+<mov m="linguadirospo.swf" />
+<mov m="quadrativolanti.swf" />
+<mov m="tombineinrotazione.swf" />
+<mov m="tondoarcobaleno.swf" />
+</library>
+</lib>

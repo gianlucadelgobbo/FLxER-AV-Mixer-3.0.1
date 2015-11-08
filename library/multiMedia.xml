@@ -1,0 +1,17 @@
+<lib>
+	<library name="[all]_ks.flx" path="library/koncepts/">
+		<mov m="ontemporanea.swf" />
+		<mov m="ontemporanea.mp3" />
+		<mov m="ontemporanea.jpg" />
+		<mov m="ontemporanea.gif" />
+		<mov m="ontemporanea.png" />
+		<mov m="ontemporanea.flv" />
+		<mov m="ontemporanea.txt" />
+		<mov m="ulfurea.txt" />
+		<mov m="uoi.txt" />
+		<mov m="ightconcept.txt" />
+		<mov m="eedback.txt" />
+		<mov m="lettropassion.txt" />
+		<mov m="attiascoltare.txt" />
+	</library>
+</lib>

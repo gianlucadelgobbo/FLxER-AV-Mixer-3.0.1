@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<flxerPerferences version="4" >
+	<settings>
+		<channels value="7" />
+	</settings>
+	<!-- YOUR MOVIES LIBRARYS XML FILES -->
+	<librarys path="library/">
+		<lib m="selecta" />
+		<lib m="300104_nh" />
+		<lib m="nikky_h" />
+		<lib m="nikky_nh" />
+		<lib m="Meta_2_h" />
+		<lib m="Meta_2_nh" />
+		<lib m="Cool_79_h" />
+		<lib m="Cool_79_nh" />
+		<lib m="pintaycolorea_h" />
+		<lib m="pintaycolorea_nh" />
+		<lib m="Q_h" />
+		<lib m="Q_nh" />
+	</librarys>
+	<!-- MOVIES USED AS WIPES -->
+	<wipes path="plug-in/wipes/">
+		<wipe m="CIRCULAR4.swf" />
+		<wipe m="spiralona4.swf" />
+		<wipe m="stellar4.swf" />
+	</wipes>
+	<!-- MOVIES USED AS DV IN -->
+	<dv-in path="plug-in/dv_in/">
+		<dvin m="160_15.swf" />
+		<dvin m="320_15.swf" />
+		<dvin m="400_15_kale.swf" />
+		<dvin m="640_15.swf" />
+		<dvin m="720_15.swf" />
+		<dvin m="720_25.swf" />
+		<dvin m="800_15.swf" />
+		<dvin m="800_25.swf" />
+		<dvin m="x4.swf" />
+		<dvin m="x6.swf" />
+	</dv-in>
+	<!-- EFFECTS -->
+	<effects path="plug-in/effects/">
+		<effect m="blur.swf" />
+		<effect m="rotate_ch4.swf" />
+	</effects>
+	<!-- READER MODES -->
+	<readerModes path="plug-in/readerModes/">
+		<readerMode m="W_by_W.swf" />
+		<readerMode m="R_to_L.swf" />
+		<readerMode m="yugoTxt.swf" />
+	</readerModes>
+	<!-- SEQUENCER PATTERNS -->
+	<sequencer>
+		<pattern m="STORBO" val="HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW"/>
+	</sequencer>
+	<!-- BROADCAST SERVERS -->
+	<broadcastServers>
+		<server m="flxerSingle" val="rtmp://217.72.102.104/flxerSingle"/>
+		<server m="flxerMultiple" val="rtmp://217.72.102.104/flxerMultiple"/>
+	</broadcastServers>
+</flxerPerferences>

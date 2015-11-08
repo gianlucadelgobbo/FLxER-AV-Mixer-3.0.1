@@ -1,0 +1,6 @@
+<lib>
+	<library name="por-noart_nh" path="library/no_hole/">
+		<mov m="hard3.swf" />
+		<mov m="turbo.swf" />
+	</library>
+</lib>

@@ -1,0 +1,20 @@
+<lib>
+	<library path="library/hole/">
+		<mov m="c_blu_rotate01.swf" />
+		<mov m="susannaswf.swf" />
+		<mov m="3narcflx.swf" />
+		<mov m="4MonstersFromTheDepths.swf" />
+		<mov m="5c_blu_rotate01.swf" />
+		<mov m="6susannaswf.swf" />
+		<mov m="7narcflx.swf" />
+		<mov m="8MonstersFromTheDepths.swf" />
+		<mov m="9c_blu_rotate01.swf" />
+		<mov m="10susannaswf.swf" />
+		<mov m="11narcflx.swf" />
+		<mov m="12MonstersFromTheDepths.swf" />
+		<mov m="13c_blu_rotate01.swf" />
+		<mov m="14susannaswf.swf" />
+		<mov m="15narcflx.swf" />
+		<mov m="16MonstersFromTheDepths.swf" />
+	</library>
+</lib>

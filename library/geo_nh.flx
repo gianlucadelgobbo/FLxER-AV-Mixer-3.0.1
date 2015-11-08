@@ -1,0 +1,23 @@
+			<lib>
+			<library name="geo_nh.flx" path="library/no_hole/">
+<mov m="000.swf" />
+<mov m="001.swf" />
+<mov m="002.swf" />
+<mov m="003.swf" />
+<mov m="004.swf" />
+<mov m="anarko.swf" />
+<mov m="base_01_fast.swf" />
+<mov m="Draw.swf" />
+<mov m="EMY_MOVE.swf" />
+<mov m="FIRE_MOVE.swf" />
+<mov m="GEO.swf" />
+<mov m="GETTHEP.swf" />
+<mov m="IWANT.swf" />
+<mov m="POISON.swf" />
+<mov m="POISONRED.swf" />
+<mov m="ROAD.swf" />
+<mov m="TROPPECOSE.swf" />
+<mov m="TROPPECOSE_0.swf" />
+<mov m="wecare.swf" />
+</library>
+</lib>

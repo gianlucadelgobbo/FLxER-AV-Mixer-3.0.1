@@ -1,0 +1,9 @@
+			<lib>
+			<library name="lkvisual_nh.flx" path="library/no_hole/">
+<mov m="bglights.swf" />
+<mov m="candela.swf" />
+<mov m="dito.swf" />
+<mov m="lkvisual1.swf" />
+<mov m="robosnow.swf" />
+</library>
+</lib>

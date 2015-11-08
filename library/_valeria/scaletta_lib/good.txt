@@ -1,0 +1,280 @@
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: BCD4-B9AF
+
+ Directory di C:\flxer_snz\library\scaletta_lib
+
+25/06/2003  12.22    <DIR>          .
+25/06/2003  12.22    <DIR>          ..
+25/06/2003  12.05    <DIR>          10_profit_Pp
+25/06/2003  12.05    <DIR>          11_chiona
+25/06/2003  12.08    <DIR>          1_stillman
+25/06/2003  12.20    <DIR>          2_are_exp
+25/06/2003  12.05    <DIR>          3_good_mornig
+25/06/2003  12.05    <DIR>          4_piercy
+25/06/2003  12.05    <DIR>          5_un_mattino
+25/06/2003  12.05    <DIR>          6_se_oggi
+25/06/2003  12.05    <DIR>          7_accidia_e_caos
+25/06/2003  12.05    <DIR>          8_film10
+25/06/2003  12.05    <DIR>          9_carota_blu
+25/06/2003  12.22                 0 good.txt
+25/06/2003  12.05    <DIR>          love
+25/06/2003  12.05    <DIR>          settle
+               1 File              0 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\10_profit_Pp
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+04/01/2003  20.39           394.574 237_clamorosopasto.swf
+10/07/2001  08.15           980.943 caos.swf
+24/01/2003  18.18           128.678 carne.swf
+07/02/2003  21.15            21.778 chicken_0.swf
+15/01/2003  17.41           131.799 circles.swf
+24/06/2003  01.21            10.347 nebbia2.swf
+17/06/2003  02.47            27.166 nebbia_NH.swf
+24/06/2003  01.07         1.322.523 pasta_ok.swf
+               8 File      3.017.808 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\11_chiona
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+24/05/2003  20.39           426.279 coolearth.swf
+24/06/2003  16.20            81.877 detesto_23.swf
+07/02/2003  21.15           298.042 flame.swf
+27/03/2003  23.20           431.969 planetearth.swf
+27/03/2003  23.30            90.792 SNZ_000011.swf
+               5 File      1.328.959 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\1_stillman
+
+25/06/2003  12.08    <DIR>          .
+25/06/2003  12.08    <DIR>          ..
+25/06/2003  12.05    <DIR>          hole
+25/06/2003  12.05    <DIR>          no_hole
+25/06/2003  12.08             1.712 stillman.txt
+               1 File          1.712 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\1_stillman\hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+27/03/2003  23.25            39.115 SNZ_000001.swf
+17/06/2003  02.52           129.207 SNZ_00000101.swf
+24/06/2003  00.17            39.121 SNZ_000001a.swf
+27/03/2003  23.25            55.575 SNZ_000002.swf
+24/06/2003  00.22            80.439 SNZ_000002a.swf
+27/03/2003  23.25            21.402 SNZ_000003.swf
+24/06/2003  00.12            21.407 SNZ_000003a.swf
+27/03/2003  23.25            34.999 SNZ_000004.swf
+17/06/2003  02.28            35.182 SNZ_000004a.swf
+27/03/2003  23.25            43.519 SNZ_000005.swf
+24/06/2003  00.13            43.515 SNZ_000005a.swf
+27/03/2003  23.25            43.491 SNZ_000006.swf
+17/06/2003  02.43             1.526 SNZ_00000a.swf
+              13 File        588.498 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\1_stillman\no_hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+27/03/2003  23.29             1.228 SNZ_000004.swf
+27/03/2003  23.29            55.575 SNZ_000005.swf
+               2 File         56.803 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\2_are_exp
+
+25/06/2003  12.20    <DIR>          .
+25/06/2003  12.20    <DIR>          ..
+21/05/2003  20.19             1.539 237_fastidio.swf
+07/02/2003  21.14           180.285 3.swf
+25/06/2003  12.19               644 r_u_exp.txt
+21/05/2003  20.18            24.491 satana.swf
+27/03/2003  23.30           269.191 SNZ_000010.swf
+               5 File        476.150 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\3_good_mornig
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+25/06/2003  12.05    <DIR>          hole
+07/03/2002  21.09            46.634 nikkyrasta_01.jpg
+07/03/2002  20.35            40.523 nikky_component_01.jpg
+07/03/2002  20.42            30.424 nikky_component_02.jpg
+25/06/2003  12.05    <DIR>          no_hole
+07/03/2002  20.58            33.878 workinprogress.jpg
+07/03/2002  21.00            18.456 workinprogress_0.jpg
+               5 File        169.915 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\3_good_mornig\hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+23/06/2003  22.04           455.053 nikkyrasta_01.png
+23/06/2003  22.24           943.745 nikky_component_01.png
+23/06/2003  22.14           184.984 nikky_component_02.png
+23/06/2003  21.41           100.930 striscio23_h.swf
+23/06/2003  21.28           120.104 striscio2_h.swf
+23/06/2003  23.05         1.352.795 workinprogress.png
+23/06/2003  22.33           402.229 workinprogress_0.png
+               7 File      3.559.840 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\3_good_mornig\no_hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+30/05/2003  23.54            94.759 237_creep.swf
+21/05/2003  20.18           194.049 machera01.swf
+23/06/2003  21.11           656.293 respiro.swf
+17/06/2003  03.26           608.931 respiro113.swf
+               4 File      1.554.032 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\4_piercy
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+25/06/2003  12.05    <DIR>          no_hole
+               0 File              0 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\4_piercy\no_hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+30/11/2002  17.55           361.254 04_01_gun.swf
+06/02/2003  02.28           455.239 04_02_downtown.swf
+06/02/2003  02.53           148.833 04_03_tunnel_car.swf
+15/01/2003  17.53           145.446 04_04_giorno_cars.swf
+30/11/2002  17.53           364.952 04_05_car.swf
+30/11/2002  17.54           465.069 04_09_face.swf
+               6 File      1.940.793 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\5_un_mattino
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+25/06/2003  12.05    <DIR>          hole
+25/06/2003  12.05    <DIR>          no_hole
+               0 File              0 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\5_un_mattino\hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+25/01/2003  03.13            16.537 02_duplic8.swf
+24/06/2003  01.08           444.259 237_back_2.swf
+04/12/2002  02.55           459.660 bho.swf
+29/04/2002  23.32           719.683 miky.swf
+               4 File      1.640.139 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\5_un_mattino\no_hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+29/12/2002  01.53         1.945.794 02_nikky15.swf
+21/05/2003  20.16            89.438 237_mikybitlava.swf
+15/04/2003  23.56            42.589 83spooky.swf
+               3 File      2.077.821 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\6_se_oggi
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+25/06/2003  12.05    <DIR>          hole
+25/06/2003  12.05    <DIR>          no_hole
+               0 File              0 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\6_se_oggi\hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+07/02/2003  21.14             1.940 237_senza.swf
+17/06/2003  02.34            29.773 frammentacuori2.swf
+17/06/2003  02.36            29.843 frammentacuori23.swf
+05/02/2003  16.06            51.521 strobo_frammentacuori.swf
+               4 File        113.077 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\6_se_oggi\no_hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+08/02/2003  18.35           173.108 10_238_overlove.swf
+29/01/2003  20.06           457.142 237_greeneyes.swf
+07/02/2003  21.15           167.031 237_overlove.swf
+08/02/2003  19.35           173.108 237_overlove_two.swf
+29/01/2003  20.03           644.469 eyes_flxerl3.swf
+04/02/2003  03.27           113.956 occhi_1.swf
+04/02/2003  03.02           570.853 occhi_2.swf
+04/02/2003  03.09            58.336 occhi_200.swf
+               8 File      2.358.003 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\7_accidia_e_caos
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+25/06/2003  12.05    <DIR>          hole
+25/06/2003  12.05    <DIR>          no_hole
+               0 File              0 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\7_accidia_e_caos\hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+21/05/2003  20.20           137.299 237_selin.swf
+30/05/2003  23.47           270.517 237_walk_h.swf
+02/02/2002  23.48             9.284 cazzoarmato.swf
+02/02/2002  23.36           174.074 enterthemutand.swf
+               4 File        591.174 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\7_accidia_e_caos\no_hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+07/02/2003  21.15           157.642 237_run.swf
+07/02/2003  21.15           157.731 237_walk.swf
+               2 File        315.373 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\8_film10
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+24/06/2003  16.01             2.233 237_cuore2.swf
+27/03/2003  23.26            81.161 237_red_02.swf
+27/03/2003  23.26            75.550 237_undeRed_.swf
+03/06/2003  13.40           308.380 simone_1.swf
+03/06/2003  13.45           362.587 simone_h.swf
+               5 File        829.911 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\9_carota_blu
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+27/03/2003  23.24            40.133 237_hellokitty1.swf
+27/03/2003  23.24            15.047 237_hellokitty2.swf
+27/03/2003  23.24            40.497 237_hellokitty3.swf
+07/02/2003  21.14            28.341 237_hellonikky.swf
+               4 File        124.018 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\love
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+28/01/2003  02.02           835.755 237_nikky_215.swf
+31/03/2003  17.34           835.307 237_nikky_325.swf
+27/03/2003  23.29           420.882 SNZ_000012.swf
+27/03/2003  23.30           351.334 SNZ_000014.swf
+27/03/2003  23.30           351.535 SNZ_000015.swf
+               5 File      2.794.813 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\settle
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+27/03/2003  23.30            60.991 SNZ_000001.swf
+27/03/2003  23.29            61.629 SNZ_000002.swf
+27/03/2003  23.29           164.718 SNZ_000006.swf
+27/03/2003  23.29           712.020 SNZ_000007.swf
+               4 File        999.358 byte
+
+     Totale file elencati:
+             100 File     24.538.197 byte
+              74 Directory  35.151.958.016 byte disponibili

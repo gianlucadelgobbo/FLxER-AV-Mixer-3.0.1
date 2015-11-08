@@ -1,0 +1,9 @@
+<lib>
+	<library name="2.0pro_beta_ks" path="library/koncepts/">
+		<mov m="puoi.txt" />
+		<mov m="lightconcept.txt" />
+		<mov m="feedback.txt" />
+		<mov m="elettropassion.txt" />
+		<mov m="fattiascoltare.txt" />
+	</library>
+</lib>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<flxerPerferences version="4">
+	<settings>
+		<channels value="7" />
+		<flxerLibraryPath value="http://www.flxer.net/warehouse/_flxer/" />
+		<viewKeyboardShortcut value="false" />
+	</settings>
+	<!-- YOUR MOVIES LIBRARYS XML FILES -->
+	<librarys path="librarys/">
+		<mov m="nikky_nh" />
+		<mov m="nikky_h" />
+		<mov m="B_Muvis_nh" />
+		<mov m="B_Muvis_h" />
+		<mov m="B_Muvis_ks" />
+		<mov m="infidel_nh" />
+		<mov m="infidel_h" />
+		<mov m="Meta2_nh" />
+		<mov m="Meta2_h" />
+		<mov m="rgb_video_controllers_nh" />
+		<mov m="rgb_video_controllers_h" />
+		<mov m="0Rh+_nh" />
+		<mov m="0Rh+_h" />
+		<mov m="Q_nh" />
+		<mov m="Q_h" />
+		<mov m="Cool_79_nh" />
+		<mov m="Cool_79_h" />
+		<mov m="pintaycolorea_nh" />
+		<mov m="pintaycolorea_h" />
+		<mov m="drgonzo_nh" />
+		<mov m="drgonzo_h" />
+		<mov m="GianlucaDelGobbo_nh" />
+		<mov m="GianlucaDelGobbo_h" />
+		<mov m="LocohasaSp._nh" />
+		<mov m="LocohasaSp._h" />
+		<mov m="geo_nh" />
+		<mov m="geo_h" />
+		<mov m="Turi_nh" />
+		<mov m="Turi_h" />
+		<mov m="Blumen_nh" />
+		<mov m="Blumen_h" />
+		<mov m="sbta_nh" />
+		<mov m="sbta_h" />
+		<mov m="omino69_nh" />
+		<mov m="omino69_h" />
+		<mov m="Patchwork_nh" />
+		<mov m="Patchwork_h" />
+		<mov m="phormazero_nh" />
+		<mov m="phormazero_h" />
+		<mov m="vjfutured_h" />
+		<mov m="blu_h" />
+		<mov m="omino69_nh" />
+		<mov m="omino69_h" />
+		<mov m="BugZ_nh" />
+		<mov m="BugZ_h" />
+		<mov m="FLyER_h" />
+		<mov m="kar_nh" />
+		<mov m="kar_h" />
+		<mov m="kali_nh" />
+		<mov m="kali_h" />
+		<mov m="olafpig_nh" />
+		<mov m="olafpig_h" />
+		<mov m="mikkel_nh" />
+		<mov m="mikkel_h" />
+		<mov m="zeketech_nh" />
+		<mov m="zeketech_h" />
+		<mov m="visco_nh" />
+		<mov m="visco_h" />
+		<mov m="Pupazzo_nh" />
+		<mov m="Pupazzo_h" />
+		<mov m="MrTies_nh" />
+		<mov m="MrTies_h" />
+		<mov m="froggyandtopo_nh" />
+		<mov m="froggyandtopo_h" />
+		<mov m="vjyoc_nh" />
+		<mov m="vjyoc_h" />
+		<mov m="paki_nh" />
+		<mov m="paki_h" />
+		<mov m="BioxProductions_nh" />
+		<mov m="BioxProductions_h" />
+		<mov m="Creativants_nh" />
+		<mov m="spad_nh" />
+		<mov m="spad_h" />
+		<mov m="Sant_One_nh" />
+		<mov m="Sant_One_h" />
+		<mov m="ape5_h" />
+		<mov m="ninoQ_h" />
+		<mov m="lkvisual_nh" />
+		<mov m="lkvisual_h" />
+		<mov m="x3me_nh" />
+		<mov m="finki_nh" />
+		<mov m="finki_h" />
+		<mov m="PHX_nh" />
+		<mov m="woody_nh" />
+		<mov m="woody_h" />
+		<mov m="djvjcareyc_h" />
+		<mov m="coconuts_h" />
+		<mov m="ottave_h" />
+		<mov m="chatarra_nh" />
+		<mov m="chatarra_h" />
+		<mov m="VisualFighter_h" />
+		<mov m="BEATGRAPHICA_h" />
+		<mov m="5startumour_h" />
+		<mov m="stv_nh" />
+		<mov m="stv_h" />
+		<mov m="AllexT_nh" />
+		<mov m="jasdeviL_nh" />
+		<mov m="jasdeviL_h" />
+		<mov m="tvshock_nh" />
+		<mov m="tvshock_h" />
+		<mov m="nkid_nh" />
+		<mov m="nkid_h" />
+		<mov m="sandro_ne_nh" />
+		<mov m="mungho_h" />
+		<mov m="cicada_nh" />
+		<mov m="cicada_h" />
+		<mov m="Pistone_nh" />
+		<mov m="Pistone_h" />
+		<mov m="Cicalone_h" />
+		<mov m="overnoise_h" />
+		<mov m="iwo_nh" />
+		<mov m="linuxclub_nh" />
+		<mov m="Jaz_h" />
+		<mov m="videoChris_nh" />
+		<mov m="bokkie_nh" />
+		<mov m="bokkie_h" />
+		<mov m="mazebase_h" />
+		<mov m="RGB_nh" />
+		<mov m="RGB_h" />
+		<mov m="quemero_nh" />
+		<mov m="SICKBEAR_h" />
+		<mov m="bagacoamarelo_nh" />
+		<mov m="bagacoamarelo_h" />
+		<mov m="chana_nh" />
+		<mov m="chana_h" />
+		<mov m="pierussss_nh" />
+		<mov m="pierussss_h" />
+		<mov m="TVShocK_h" />
+		<mov m="snapfilm_nh" />
+		<mov m="AlanParsec_nh" />
+		<mov m="AlanParsec_h" />
+		<mov m="Cellula_nh" />
+		<mov m="co_nh" />
+		<mov m="MattOwens_nh" />
+		<mov m="MattOwens_h" />
+		<mov m="s36ast1an_nh" />
+		<mov m="s36ast1an_h" />
+		<mov m="CarolCat_nh" />
+		<mov m="CarolCat_h" />
+		<mov m="doppio_h" />
+		<mov m="jack_h" />
+		<mov m="Torpedo_nh" />
+		<mov m="Torpedo_h" />
+		<mov m="Torpedo_ks" />
+		<mov m="Tezzuya_nh" />
+		<mov m="Tezzuya_h" />
+		<mov m="iliat_h" />
+		<mov m="abstracpolis_h" />
+		<mov m="eeee_nh" />
+		<mov m="eeee_h" />
+		<mov m="ElGua_nh" />
+		<mov m="ElGua_h" />
+		<mov m="CORVITTO_nh" />
+		<mov m="CORVITTO_h" />
+		<mov m="qq_h" />
+		<mov m="databhi_nh" />
+		<mov m="VJStoudt_nh" />
+		<mov m="VJShow_nh" />
+		<mov m="Rico_nh" />
+		<mov m="selmaseback_nh" />
+		<mov m="fusion3k_h" />
+		<mov m="hermanos_nh" />
+		<mov m="hermanos_h" />
+		<mov m="nutria_nh" />
+		<mov m="nutria_h" />
+		<mov m="biox_nh" />
+		<mov m="biox_h" />
+		<mov m="k_nh" />
+		<mov m="k_h" />
+		<mov m="DennisCucumber_nh" />
+		<mov m="DennisCucumber_h" />
+		<mov m="yomismo_h" />
+		<mov m="LAb9_h" />
+		<mov m="grEEdy_h" />
+		<mov m="UniversoTV_nh" />
+		<mov m="noce_h" />
+		<mov m="morvern_nh" />
+		<mov m="JL_nh" />
+		<mov m="mikkoaleksi_h" />
+		<mov m="raffaelecorreale_nh" />
+		<mov m="frog_h" />
+		<mov m="doncoke_h" />
+		<mov m="otrt_nh" />
+		<mov m="suca_h" />
+		<mov m="VJLoli_h" />
+		<mov m="djvjcareyc_h" />
+		<mov m="ideo_h" />
+		<mov m="studioakrilico_h" />
+		<mov m="Octopus_h" />
+		<mov m="zoekat_nh" />
+		<mov m="mamo_h" />
+		<mov m="eleqitel_nh" />
+		<mov m="gmunk_h" />
+		<mov m="enenek_nh" />
+		<mov m="frog_h" />
+		<mov m="ntmx_h" />
+		<mov m="narcoblanche_h" />
+		<mov m="JoshuaDavis_nh" />
+		<mov m="Argiuna_h" />
+		<mov m="jimmypensone_h" />
+		<mov m="kiesler_F_nh" />
+		<mov m="fluto_h" />
+		<mov m="TOXIC_h" />
+		<mov m="tabastro_nh" />
+		<mov m="bebop_1_nh" />
+		<mov m="herbalsvisuals_nh" />
+		<mov m="bernathy_nh" />
+		<mov m="T-bet_h" />
+		<mov m="Gigavisual_nh" />
+		<mov m="kekko_nh" />
+		<mov m="spinefish_nh" />
+		<mov m="486Kid_nh" />
+		<mov m="interstella_h" />
+		<mov m="bones_nh" />
+		<mov m="FLU!DOS_nh" />
+		<mov m="pruno_nh" />
+		<mov m="butoh_nh" />
+		<mov m="freedeonia_nh" />
+		<mov m="reVo_nh" />
+		<mov m="ambulatore_h" />
+		<mov m="Melondezign_nh" />
+		<mov m="rautalanka_nh" />
+		<mov m="videocrat_h" />
+		<mov m="crackedpixel_nh" />
+	</librarys>
+	<!-- YOUR WIPES -->
+	<wipes path="plug-in/wipes/">
+		<mov m="stellar4.swf" />
+		<mov m="spiralona4.swf" />
+		<mov m="circular4.swf" />
+	</wipes>
+	<!-- YOUR DV-IN -->
+	<dv-in path="plug-in/dv_in/">
+		<mov m="x6.swf" />
+		<mov m="x4.swf" />
+		<mov m="800_25.swf" />
+		<mov m="800_15.swf" />
+		<mov m="720_25.swf" />
+		<mov m="720_15.swf" />
+		<mov m="640_15.swf" />
+		<mov m="400_15_kale.swf" />
+		<mov m="320_15.swf" />
+		<mov m="160_15.swf" />
+	</dv-in>
+	<!-- EFFECTS -->
+	<effects path="plug-in/effects/">
+		<mov m="rotate_ch4.swf" />
+		<mov m="blur.swf" />
+	</effects>
+	<!-- READER MODES -->
+	<readerModes path="plug-in/readerModes/">
+		<mov m="yugotxt.swf" />
+		<mov m="w_by_w.swf" />
+		<mov m="r_to_l.swf" />
+	</readerModes>
+	<!-- SEQUENCER PATTERNS available values NULL|PLAY|STOP|REWIND|HIDE|SHOW -->
+	<sequencer>
+		<pattern m="STORBO" val="HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW,HIDE,SHOW"/>
+		<pattern m="REWIND" val="REWIND,NULL,REWIND,NULL,REWIND,NULL,REWIND,NULL,REWIND,NULL,REWIND,NULL,REWIND,NULL,REWIND,NULL,REWIND,NULL,REWIND,NULL"/>
+		<pattern m="STOPPLAY" val="STOP,PLAY,STOP,PLAY,STOP,PLAY,STOP,PLAY,STOP,PLAY,STOP,PLAY,STOP,PLAY,STOP,PLAY,STOP,PLAY,STOP,PLAY"/>
+	</sequencer>
+	<!-- BROADCAST SERVERS -->
+	<broadcastServers>
+		<server m="flxerSingle" val="rtmp://217.72.102.104/flxerSingle" />
+		<server m="flxerMultiple" val="rtmp://217.72.102.104/flxerMultiple" />
+		<server m="flxerMultipleLoc" val="rtmp://localhost/flxerSingle" />
+		<server m="flxerMultipleLoc" val="rtmp://localhost/flxerMultiple" />
+	</broadcastServers>
+</flxerPerferences>

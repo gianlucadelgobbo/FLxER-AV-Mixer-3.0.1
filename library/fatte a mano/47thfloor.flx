@@ -1,0 +1,9 @@
+<lib>
+	<library name="47thfloor.flx" path="library/47th/">
+		<mov m="logo47th_1.swf" />
+		<mov m="logo47th_2.swf" />
+		<mov m="logo47th_3.swf" />
+		<mov m="logo47th_4.swf" />
+		<mov m="logo47th_5.swf" />
+	</library>
+</lib>

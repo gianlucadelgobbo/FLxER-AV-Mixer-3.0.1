@@ -1,0 +1,22 @@
+<lib>
+	<library name="gnuuu_nh" path="library/no_hole/">
+		<mov m="126.swf" />
+		<mov m="126_flap.swf" />
+		<mov m="avi1.swf" />
+		<mov m="bruna.swf" />
+		<mov m="caril2_nh.swf" />
+		<mov m="carillio4.swf" />
+		<mov m="carillion2_3.swf" />
+		<mov m="lomo.swf" />
+		<mov m="carillion_1_h.swf" />
+		<mov m="jemma_bn_1.swf" />
+		<mov m="jemma_bn_2.swf" />
+		<mov m="jemma_bn_3.swf" />
+		<mov m="jemma_bn_4.swf" />
+		<mov m="passi.swf" />
+		<mov m="ptc_1.swf" />
+		<mov m="sincDSo1.swf" />
+		<mov m="sinco1.swf" />
+		<mov m="tunnel.swf" />
+	</library>
+</lib>

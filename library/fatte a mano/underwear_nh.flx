@@ -1,0 +1,10 @@
+<lib>
+	<library name="underwear_nh" path="library/hole/">
+		<mov m="fotocomp.swf" />
+		<mov m="carrellatab.swf" />
+		<mov m="under1.swf" />
+		<mov m="BC2.swf" />
+		<mov m="BC3.swf" />
+		<mov m="titoli.swf" />
+	</library>
+</lib>

@@ -1,0 +1,14 @@
+			<lib>
+			<library name="MrTies_nh.flx" path="library/no_hole/">
+<mov m="candele2.swf" />
+<mov m="candele3.swf" />
+<mov m="casa1.swf" />
+<mov m="castello1.swf" />
+<mov m="colosseo1.swf" />
+<mov m="Eur1.swf" />
+<mov m="impronte1.swf" />
+<mov m="impronte2.swf" />
+<mov m="makejoint2.swf" />
+<mov m="orologio1.swf" />
+</library>
+</lib>

@@ -1,0 +1,36 @@
+			<lib>
+			<library name="Blumen_nh.flx" path="library/no_hole/">
+<mov m="aguy.swf" />
+<mov m="blumek1.swf" />
+<mov m="bogien2.swf" />
+<mov m="breakers.swf" />
+<mov m="dancer.swf" />
+<mov m="dancer2_0.swf" />
+<mov m="dancer3_0.swf" />
+<mov m="depeche1.swf" />
+<mov m="depeche2.swf" />
+<mov m="depeche3.swf" />
+<mov m="fuckyaall1.swf" />
+<mov m="guetta1.swf" />
+<mov m="kiczparty2.swf" />
+<mov m="kiczparty3.swf" />
+<mov m="kobieta.swf" />
+<mov m="modelka.swf" />
+<mov m="new1.swf" />
+<mov m="new2.swf" />
+<mov m="ola1.swf" />
+<mov m="ola3.swf" />
+<mov m="ola4.swf" />
+<mov m="pawulon.swf" />
+<mov m="pod1.swf" />
+<mov m="pod2.swf" />
+<mov m="pod3.swf" />
+<mov m="pod4.swf" />
+<mov m="pod5.swf" />
+<mov m="pod6.swf" />
+<mov m="theworldismine.swf" />
+<mov m="tiga1.swf" />
+<mov m="tiga2.swf" />
+<mov m="tt.swf" />
+</library>
+</lib>

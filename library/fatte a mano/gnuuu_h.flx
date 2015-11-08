@@ -1,0 +1,17 @@
+<lib>
+	<library name="gnuuu_h" path="library/hole/">
+		<mov m="cari_d7.swf" />
+		<mov m="caril2_h.swf" />
+		<mov m="caril_5.swf" />
+		<mov m="caril_d2.swf" />
+		<mov m="caril_d3.swf" />
+		<mov m="caril_d4.swf" />
+		<mov m="caril_s2.swf" />
+		<mov m="caril_s3.swf" />
+		<mov m="caril_s7.swf" />
+		<mov m="carillion2-1.swf" />
+		<mov m="carillion_3.swf" />
+		<mov m="carilliondown_h.swf" />
+		<mov m="flap_flap.swf" />
+	</library>
+</lib>

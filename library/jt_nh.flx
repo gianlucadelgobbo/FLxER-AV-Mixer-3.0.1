@@ -1,0 +1,56 @@
+<lib>
+	<library name="jemmatemp_nhl.flx" path="library/jt_nh/">
+
+		<mov m="jemma_bn_3.swf" />
+		<mov m="jemma_bn_2.swf" />
+		<mov m="jemma_bn_1.swf" />
+		<mov m="jemma_bn_4.swf" />
+		<mov m="spappolata.swf" />
+		<mov m="spappolata2.swf" />
+		<mov m="read.swf" />
+		<mov m="xred.swf" />
+		<mov m="xred2.swf" />
+		<mov m="bus2.swf" />
+		<mov m="bus237.swf" />
+		<mov m="bus1.swf" />
+		<mov m="pisa.swf" />
+		<mov m="treno1.swf" />
+		<mov m="treno2.swf" />
+		<mov m="treno3.swf" />
+		<mov m="treno4.swf" />
+		<mov m="treno5.swf" />
+		<mov m="treno6.swf" />
+		<mov m="treno_fermata2.swf" />
+		<mov m="treno_fermata.swf" />
+		<mov m="treno_nikky.swf" />
+		<mov m="treno_nikky2.swf" />
+		<mov m="237_moblog.swf" />
+		<mov m="02_nikky15.swf"/>
+		<mov m="ilovejemma_nh.swf" />
+		<mov m="ilovejemma_nh2.swf" />
+		<mov m="occhi05.swf" />
+		<mov m="SNZ_000015.swf" />
+		<mov m="autostrade.swf" />
+		<mov m="SNZ_000014.swf" />
+		<mov m="SNZ_000012.swf" />
+		<mov m="SNZ_000011.swf" />
+		<mov m="detesto_23.swf" />
+		<mov m="SNZ_000010.swf" />
+		<mov m="sleep.swf" />
+		<mov m="SENO.swf" />
+		<mov m="carillion2_3.swf" />
+		<mov m="carillio4.swf" />
+		<mov m="caril2_nh.swf" />
+		<mov m="237_nikky_mask.swf" />
+		<mov m="237_nikky_mask2.swf" />
+		<mov m="237_nikky_nega.swf" />
+		<mov m="83spooky.swf" />
+		<mov m="237_greeneyes.swf" />
+		<mov m="eyes_flxerl3.swf"/>
+		<mov m="237_love_striz_tiz.swf" />
+		<mov m="237_MIKY_1.swf" />
+		<mov m="limono.swf"/>
+		<mov m="limono2.swf"/>
+		<mov m="limono2_1.swf"/>
+	</library>
+</lib>

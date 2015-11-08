@@ -1,0 +1,42 @@
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: BCD4-B9AF
+
+ Directory di C:\flxer_snz\library\scaletta_lib\1_stillman
+
+25/06/2003  12.08    <DIR>          .
+25/06/2003  12.08    <DIR>          ..
+25/06/2003  12.05    <DIR>          hole
+25/06/2003  12.05    <DIR>          no_hole
+25/06/2003  12.08                 0 stillman.txt
+               1 File              0 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\1_stillman\hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+27/03/2003  23.25            39.115 SNZ_000001.swf
+17/06/2003  02.52           129.207 SNZ_00000101.swf
+24/06/2003  00.17            39.121 SNZ_000001a.swf
+27/03/2003  23.25            55.575 SNZ_000002.swf
+24/06/2003  00.22            80.439 SNZ_000002a.swf
+27/03/2003  23.25            21.402 SNZ_000003.swf
+24/06/2003  00.12            21.407 SNZ_000003a.swf
+27/03/2003  23.25            34.999 SNZ_000004.swf
+17/06/2003  02.28            35.182 SNZ_000004a.swf
+27/03/2003  23.25            43.519 SNZ_000005.swf
+24/06/2003  00.13            43.515 SNZ_000005a.swf
+27/03/2003  23.25            43.491 SNZ_000006.swf
+17/06/2003  02.43             1.526 SNZ_00000a.swf
+              13 File        588.498 byte
+
+ Directory di C:\flxer_snz\library\scaletta_lib\1_stillman\no_hole
+
+25/06/2003  12.05    <DIR>          .
+25/06/2003  12.05    <DIR>          ..
+27/03/2003  23.29             1.228 SNZ_000004.swf
+27/03/2003  23.29            55.575 SNZ_000005.swf
+               2 File         56.803 byte
+
+     Totale file elencati:
+              16 File        645.301 byte
+               8 Directory  35.152.052.224 byte disponibili

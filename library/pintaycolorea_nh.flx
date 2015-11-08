@@ -1,0 +1,37 @@
+			<lib>
+			<library name="pintaycolorea_nh.flx" path="library/no_hole/">
+<mov m="3d_geometrico.swf" />
+<mov m="3d_geometrico_1.swf" />
+<mov m="3d_geometrico_2.swf" />
+<mov m="3d_geometrico_3.swf" />
+<mov m="aqua_madalena_1.swf" />
+<mov m="bota02.swf" />
+<mov m="camion.swf" />
+<mov m="capitanfutura.swf" />
+<mov m="carretera.swf" />
+<mov m="carretera1.swf" />
+<mov m="gianluca_mangia.swf" />
+<mov m="gianluca_veloce.swf" />
+<mov m="giu_1.swf" />
+<mov m="giu_2.swf" />
+<mov m="giu_4.swf" />
+<mov m="giu_6.swf" />
+<mov m="hoja.swf" />
+<mov m="hoja_1.swf" />
+<mov m="hoja_2.swf" />
+<mov m="kiwi.swf" />
+<mov m="kiwi_1.swf" />
+<mov m="lampada.swf" />
+<mov m="minuevoabrigo.swf" />
+<mov m="mosca_1.swf" />
+<mov m="pajaros.swf" />
+<mov m="pajaros02.swf" />
+<mov m="piedi.swf" />
+<mov m="piedi_1.swf" />
+<mov m="retrovisor.swf" />
+<mov m="righe.swf" />
+<mov m="strada.swf" />
+<mov m="tazas.swf" />
+<mov m="tunel.swf" />
+</library>
+</lib>

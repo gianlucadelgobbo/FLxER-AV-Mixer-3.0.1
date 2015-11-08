@@ -1,0 +1,17 @@
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: BCD4-B9AF
+
+ Directory di C:\flxer_snz\library\scaletta_lib\2_are_exp
+
+25/06/2003  12.19    <DIR>          .
+25/06/2003  12.19    <DIR>          ..
+21/05/2003  20.19             1.539 237_fastidio.swf
+07/02/2003  21.14           180.285 3.swf
+25/06/2003  12.19                 0 r_u_exp
+21/05/2003  20.18            24.491 satana.swf
+27/03/2003  23.30           269.191 SNZ_000010.swf
+               5 File        475.506 byte
+
+     Totale file elencati:
+               5 File        475.506 byte
+               2 Directory  35.152.003.072 byte disponibili

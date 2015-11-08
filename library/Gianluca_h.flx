@@ -1,0 +1,33 @@
+			<lib>
+			<library name="Gianluca_h.flx" path="library/hole/">
+<mov m="ascii_away.swf" />
+<mov m="ascii_came.swf" />
+<mov m="ascii_force.swf" />
+<mov m="ascii_RGBforce.swf" />
+<mov m="ascii_walk.swf" />
+<mov m="asciiklan.swf" />
+<mov m="camera.swf" />
+<mov m="canna.swf" />
+<mov m="carica.swf" />
+<mov m="comesifa.swf" />
+<mov m="divieto.swf" />
+<mov m="divieto2.swf" />
+<mov m="flame.swf" />
+<mov m="foglia.swf" />
+<mov m="foglia02.swf" />
+<mov m="foglia03.swf" />
+<mov m="guerra_pixel_02.swf" />
+<mov m="hemptivi.swf" />
+<mov m="lego_trasformer.swf" />
+<mov m="peace_0.swf" />
+<mov m="peace2.swf" />
+<mov m="pixel_soldier_01.swf" />
+<mov m="pixel_soldier_02.swf" />
+<mov m="pixel_soldier_03.swf" />
+<mov m="sfera.swf" />
+<mov m="strobo_1.swf" />
+<mov m="strobo_2.swf" />
+<mov m="time.swf" />
+<mov m="vitabella.swf" />
+</library>
+</lib>

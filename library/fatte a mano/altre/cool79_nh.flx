@@ -1,0 +1,16 @@
+<lib>
+	<library name="cool79_nh" path="library/no_hole/">
+		<mov m="coolbreak.swf" />
+		<mov m="cool_brake03.swf" />
+		<mov m="cool_brake04.swf" />
+		<mov m="cool_brake05.swf" />
+		<mov m="cool_brakelicopter.swf" />
+		<mov m="coolflame01.swf" />
+		<mov m="coolflame.swf" />
+		<mov m="coolcar.swf" />
+		<mov m="cooltrain.swf" />
+		<mov m="cool_under1.swf" />
+		<mov m="coolholland01.swf" />
+		<mov m="coolholland02.swf" />
+	</library>
+</lib>

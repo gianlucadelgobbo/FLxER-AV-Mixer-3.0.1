@@ -1,0 +1,8 @@
+			<lib>
+			<library name="kar_h.flx" path="library/hole/">
+<mov m="alien_KAR.swf" />
+<mov m="kar-trip.swf" />
+<mov m="see_hear_speak_no_evil.swf" />
+<mov m="vector_walk_man.swf" />
+</library>
+</lib>

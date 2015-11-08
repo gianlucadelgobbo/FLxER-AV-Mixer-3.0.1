@@ -1,0 +1,23 @@
+<lib>
+	<library name="coq" path="library/_valeria/coq_madame/">
+		<mov m="chupa_1_4.swf" />
+		<mov m="chupa_roll.swf" />
+		<mov m="chupa_roll_4.swf" />
+		<mov m="chupa_roll_god.swf" />
+		<mov m="chupa_roll_jpg.swf" />
+		<mov m="chupa_roll_scritte.swf" />
+		<mov m="chupa_SALTA_prato1.swf" />
+		<mov m="chupa_SALTA_prato2.swf" />
+		<mov m="chupa_SALTA_prato4.swf" />
+		<mov m="chupa_SALTA_prato23.swf" />
+		<mov m="chupa_SALTA_prato36.swf" />
+		<mov m="coq_01.swf" />
+		<mov m="coq_cafona_ani.swf" />
+		<mov m="font_1.swf" />
+		<mov m="nuvolette_1.swf" />
+		<mov m="nuvolette_4.swf" />
+		<mov m="SCORR_2.swf" />
+		<mov m="SCORR_12.swf" />
+		<mov m="AVANT1.swf" />
+	</library>
+</lib>

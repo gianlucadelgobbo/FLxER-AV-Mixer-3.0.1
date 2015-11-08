@@ -1,0 +1,7 @@
+<lib>
+	<library name="underwear_h" path="library/hole/">
+		<mov m="strobo_1.swf" />
+		<mov m="ruspa.swf" />
+		<mov m="ruspante.swf" />
+	</library>
+</lib>

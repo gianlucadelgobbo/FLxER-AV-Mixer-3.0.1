@@ -1,0 +1,8 @@
+<lib>
+	<library name="default_ks" path="library/koncepts/">
+		<mov m="elettropassion.txt" />
+		<mov m="fattiascoltare.txt" />
+		<mov m="feedback.txt" />
+		<mov m="lightconcept.txt" />
+	</library>
+</lib>

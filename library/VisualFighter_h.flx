@@ -1,0 +1,10 @@
+			<lib>
+			<library name="VisualFighter_h.flx" path="library/hole/">
+<mov m="bitxo.swf" />
+<mov m="COLOURS.swf" />
+<mov m="cyborg.swf" />
+<mov m="fight2.swf" />
+<mov m="noWaR.swf" />
+<mov m="stopcontrol.swf" />
+</library>
+</lib>

@@ -1,0 +1,13 @@
+<lib>
+	<library name="2.0pro_beta_nh" path="library/no_hole/">
+		<mov m="everest.swf" />
+		<mov m="83spooky.swf" />
+		<mov m="jerk.swf" />
+		<mov m="stoptrain.swf" />
+		<mov m="237_red_02.swf" />
+		<mov m="237_capo.swf" />
+		<mov m="kiss.swf" />
+		<mov m="joystick.swf" />
+		<mov m="spaceinvaders.swf" />
+	</library>
+</lib>

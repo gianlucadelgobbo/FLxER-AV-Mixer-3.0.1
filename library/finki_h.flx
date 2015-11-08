@@ -1,0 +1,10 @@
+			<lib>
+			<library name="finki_h.flx" path="library/hole/">
+<mov m="balls_h.swf" />
+<mov m="bang_h.swf" />
+<mov m="bang_nh.swf" />
+<mov m="cat_man.swf" />
+<mov m="cicca_h.swf" />
+<mov m="goz.swf" />
+</library>
+</lib>

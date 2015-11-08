@@ -1,0 +1,23 @@
+<lib>
+	<library name="237_h" path="library/no_hole/">
+		<mov m="11_Cool79.swf" />
+		<mov m="12_Cool79.swf" />
+		<mov m="13_Cool79.swf" />
+		<mov m="237.swf" />
+		<mov m="237_hellonikky.swf" />
+		<mov m="237_nikky_mask.swf" />
+		<mov m="237_nikky_mask2.swf" />
+		<mov m="237_pucca1.swf" />
+		<mov m="237_pucca2.swf" />
+		<mov m="237_pucca3.swf" />
+		<mov m="237_senza.swf" />
+		<mov m="bluecheese_02.swf" />
+		<mov m="cazzoarmato.swf" />
+		<mov m="FUNGLI.swf" />
+		<mov m="sicura.swf" />
+		<mov m="spiralona.swf" />
+		<mov m="spiralona2.swf" />
+		<mov m="bio_pace.swf" />
+		<mov m="megaloman.swf" />
+	</library>
+</lib>

@@ -1,0 +1,111 @@
+<lib>
+<library name="[all]_nh" path="library/no_hole/">
+
+<mov m="AllBackColors.swf" />
+<mov m="quadro_colori_flxer.swf" />
+<mov m="bluescape.swf" />
+
+<mov m="BBAATak.swf" />
+<mov m="oskarcorrens.swf" />
+<mov m="opbeat.swf" />
+
+<mov m="sunquake3.swf" />
+<mov m="sunquake2.swf" />
+<mov m="sunquake1.swf" />
+<mov m="greensun2.swf" />
+
+
+<mov m="digsea.swf" />
+
+<mov m="dancer2.swf" />
+<mov m="cercho.swf" />
+
+<mov m="underbar2.swf" />
+<mov m="004.swf" />
+<mov m="003.swf" />
+<mov m="002.swf" />
+<mov m="001.swf" />
+<mov m="xmaslite.swf" />
+<mov m="confusion9.swf" />
+<mov m="confusion8.swf" />
+<mov m="confusion7.swf" />
+<mov m="confusion6.swf" />
+<mov m="confusion5.swf" />
+
+<mov m="confusion2.swf" />
+<mov m="confusion1.swf" />
+
+
+<mov m="disturbed_me.swf" />
+
+<mov m="pelo.swf" />
+
+<mov m="negative_me.swf" />
+<mov m="righe.swf" />
+
+
+<mov m="dywan.swf" />
+
+<mov m="effect1.swf" />
+
+<mov m="237_dv8.swf" />
+
+<mov m="dsn.swf" />
+
+<mov m="xcolors1.swf" />
+
+<mov m="zero6.swf" />
+<mov m="redscape.swf" />
+<mov m="ink.swf" />
+
+<mov m="tokyo4.swf" />
+<mov m="tokyo3.swf" />
+<mov m="tokyo2.swf" />
+<mov m="tokyo1.swf" />
+<mov m="crowd.swf" />
+
+<mov m="circles.swf" />
+
+<mov m="passaggiometro.swf" />
+
+
+<mov m="luci.swf" />
+
+<mov m="fugge3.swf" />
+
+<mov m="schizzi.swf" />
+
+<mov m="righegia2.swf" />
+<mov m="righegia.swf" />
+<mov m="operazione.swf" />
+<mov m="oldconta.swf" />
+<mov m="nebulosa.swf" />
+<mov m="tvdots_0.swf" />
+
+
+<mov m="ab.swf" />
+<mov m="SNZ_000003.swf" />
+<mov m="red_night_hiway.swf" />
+
+<mov m="scopio.swf" />
+
+<mov m="ugz2.swf" />
+
+
+<mov m="flame.swf" />
+<mov m="fireball1.swf" />
+<mov m="2dfire.swf" />
+<mov m="comet.swf" />
+
+
+<mov m="feedback_8.swf" />
+<mov m="feedback_7.swf" />
+<mov m="feedback_6.swf" />
+<mov m="feedback_5.swf" />
+<mov m="feedback_4.swf" />
+<mov m="feedback_3.swf" />
+<mov m="feedback_1.swf" />
+<mov m="caos.swf" />
+
+</library>
+</lib>

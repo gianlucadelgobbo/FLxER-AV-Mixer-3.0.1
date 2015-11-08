@@ -1,0 +1,48 @@
+<lib>
+	<library name="default_nh" path="library/no_hole/">
+		<mov m="meta2_2.flv" />
+		<mov m="elabgrphx_zerodzgn1.flv" />
+		<mov m="bubble.swf" />
+		<mov m="lop2.swf" />
+		<mov m="woop6.swf" />
+		<mov m="starwars.swf" />
+		<mov m="space1.swf" />
+		<mov m="cntrl1.swf" />
+		<mov m="odissey_0.swf" />
+		<mov m="chipz.swf" />
+		<mov m="leds.swf" />
+		<mov m="disgea.swf" />
+<mov m="guz_moon4.swf" />
+<mov m="guz_moon3.swf" />
+<mov m="guz_moon_2.swf" />
+<mov m="guz_moon.swf" />
+<mov m="astronav.swf" />
+<mov m="astrogira.swf" />
+<mov m="astrogira2.swf" />
+<mov m="apollo.swf" />
+<mov m="luci.swf" />
+<mov m="tvconfusion.swf" />
+<mov m="schizzi.swf" />
+<mov m="roroad.swf" />
+<mov m="righegia2.swf" />
+<mov m="riflesso.swf" />
+<mov m="operazione.swf" />
+<mov m="milledita.swf" />
+<mov m="infra.swf" />
+<mov m="dittatore.swf" />
+<mov m="convulsioni.swf" />
+<mov m="tvdots.swf" />
+<mov m="indastria.swf" />
+<mov m="ElectronicViews.swf" />
+<mov m="Satellite_citta.swf" />
+<mov m="future_flash.swf" />
+<mov m="palette_skermo.swf" />
+<mov m="guz_moon.swf" />
+<mov m="guz_moon.swf" />
+<mov m="guz_moon.swf" />
+
+
+	
+
+</library>
+</lib>

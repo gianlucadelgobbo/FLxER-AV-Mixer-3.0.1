@@ -1,0 +1,45 @@
+<lib>
+<library name="snz_h" path="library/hole/">		
+		<mov m="bus2.swf" />
+		<mov m="bus237.swf" />
+		<mov m="bambolotto.swf" />
+		<mov m="nina_2.swf" />
+		<mov m="nina_1.swf" />
+		<mov m="nina_bola.swf" />
+		<mov m="circulos.swf" />
+		<mov m="cuadarados.swf" />
+		<mov m="bimbo.swf" />
+		<mov m="carillion_man.swf" />
+		<mov m="carillion_man3.swf" />
+		<mov m="carillion_man7.swf" />
+		<mov m="SF1.swf" />
+		<mov m="SF11.swf" />
+		<mov m="SF12.swf" />
+		<mov m="SF15.swf" />
+		<mov m="SF16.swf" />
+		<mov m="SF1_1.swf" />
+		<mov m="SF1_2.swf" />
+		<mov m="SF2.swf" />
+		<mov m="sfera.swf" />
+		<mov m="sfiamma.swf" />						<mov m="sfv_1.swf" />
+		<mov m="sfv_10.swf" />
+		<mov m="sfv_16.swf" />
+		<mov m="sfv_2.swf" />
+		<mov m="sfv_3.swf" />
+		<mov m="sfv_4.swf" />
+		<mov m="sfv_5.swf" />
+		<mov m="sfv_6.swf" />
+		<mov m="sfv_7.swf" />
+		<mov m="sfv_8.swf" />
+		<mov m="sfv_9.swf" />
+		<mov m="sfv_cade.swf" />
+		<mov m="sfv_cade3.swf" />
+		<mov m="sfv_lamp.swf" />
+		<mov m="sfv_mini.swf" />
+		<mov m="sfv_mini1.swf" />
+		<mov m="sfv_raptus.swf" />
+		<mov m="sfv_sbatte2.swf" />
+		<mov m="sfv_sbatto.swf" />
+		<mov m="sfv_vado.swf" />
+		<mov m="SF_18.swf" />
+	

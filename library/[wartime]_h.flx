@@ -1,0 +1,35 @@
+<lib>
+	<library name="[wartime]_h" path="library/hole/">
+		<mov m="bebbo.swf" />
+		<mov m="timebomb.swf" />
+		<mov m="timebomb2.swf" />
+		<mov m="lego3.swf" />
+		<mov m="bee.swf" />
+		<mov m="balls.swf" />
+		<mov m="coolgundam_02.swf" />
+		<mov m="cooltattoo_04.swf" />
+		<mov m="coolxplosion_03.swf" />
+		<mov m="childreneyes.swf" />
+		<mov m="00coolcity.swf" />
+		<mov m="chicken_0.swf" />
+		<mov m="spirale_Q.swf" />
+		<mov m="brainingswf.swf" />
+		<mov m="pixel_soldier_03.swf" />
+		<mov m="pixel_soldier_02.swf" />
+		<mov m="pixel_soldier_01.swf" />
+		<mov m="guerra_pixel_02.swf" />
+		<mov m="vitabella.swf" />
+		<mov m="megalomen.swf" />
+		<mov m="12_Cool79.swf" />
+		<mov m="11_Cool79.swf" />
+		<mov m="cazzoarmato.swf" />
+		<mov m="sicura.swf" />
+		<mov m="gundam.swf" />
+		<mov m="razzo.swf" />
+		<mov m="bio_pace.swf" />
+		<mov m="mano.swf" />
+		<mov m="spiralona.swf" />
+		<mov m="strobo_2.swf" />
+		<mov m="strobo_1.swf" />
+	</library>
+</lib>

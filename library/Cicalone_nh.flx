@@ -1,0 +1,6 @@
+			<lib>
+			<library name="Cicalone_nh.flx" path="library/no_hole/">
+<mov m="c64broken.swf" />
+<mov m="shinobi.swf" />
+</library>
+</lib>

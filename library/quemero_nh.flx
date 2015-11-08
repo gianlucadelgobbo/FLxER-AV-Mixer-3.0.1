@@ -1,0 +1,8 @@
+			<lib>
+			<library name="quemero_nh.flx" path="library/no_hole/">
+<mov m="fondo1.swf" />
+<mov m="fondook.swf" />
+<mov m="tiros.swf" />
+<mov m="tirosok.swf" />
+</library>
+</lib>

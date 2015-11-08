@@ -1,0 +1,44 @@
+<lib>
+	<library name="[all]_h" path="library/_valeria/pn4/">
+
+		<mov m="pisa.swf" />
+		<mov m="binari.swf" />
+		<mov m="treno1.swf" />
+		<mov m="treno2.swf" />
+		<mov m="treno3.swf" />
+		<mov m="treno4.swf" />
+		<mov m="treno5.swf" />
+		<mov m="treno6.swf" />
+		<mov m="treno_fermata.swf" />
+		<mov m="treno_fermata2.swf" />
+		<mov m="treno_nikky.swf" />
+		<mov m="treno_nikky2.swf" />
+		<mov m="f2v.swf" />
+		<mov m="f2v_1.swf" />
+		<mov m="f2v_2.swf" />	
+		<mov m="f2v_3.swf" />		
+		<mov m="jacky1.swf" />
+		<mov m="jacky2.swf" />
+		<mov m="jacky3.swf" />
+		<mov m="jacky4.swf" />
+		<mov m="jacky5.swf" />
+		<mov m="jacky33_1.swf" />
+		<mov m="jacky33_2.swf" />
+		<mov m="jacky33_3.swf" />
+		<mov m="jacky33_4.swf" />
+		<mov m="jacky33_5.swf" />
+		<mov m="jacky33_6.swf" />
+		<mov m="jacky_andy.swf" />
+		<mov m="jacky_o3.swf" />
+		<mov m="jacky_o.swf" />
+		<mov m="jacky_pezzi.swf" />
+		<mov m="jfk2.swf" />
+		<mov m="jfk.swf" />
+		<mov m="vasca.swf" />
+		<mov m="vasca2.swf" />
+		<mov m="vasca23.swf" />
+		<mov m="vasca_11.swf" />
+		<mov m="vasca_12.swf" />
+		<mov m="vasca_13.swf" />
+	</library>
+</lib>

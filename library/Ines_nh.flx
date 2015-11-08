@@ -1,0 +1,13 @@
+			<lib>
+			<library name="Ines_nh.flx" path="library/no_hole/">
+<mov m="aqua_madalena_1.swf" />
+<mov m="aqua_madalena_2.swf" />
+<mov m="camion.swf" />
+<mov m="capitanfutura.swf" />
+<mov m="piedi.swf" />
+<mov m="piedi_1.swf" />
+<mov m="retrovisor.swf" />
+<mov m="righe.swf" />
+<mov m="tazas.swf" />
+</library>
+</lib>

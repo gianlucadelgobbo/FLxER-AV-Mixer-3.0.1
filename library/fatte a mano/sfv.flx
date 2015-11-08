@@ -1,0 +1,25 @@
+<lib>
+	<library name="flv" path="library/hole/">
+		<mov m="sfv_1.swf" />
+		<mov m="sfv_2.swf" />
+		<mov m="sfv_3.swf" />
+		<mov m="sfv_4.swf" />
+		<mov m="sfv_5.swf" />
+		<mov m="sfv_6.swf" />
+		<mov m="sfv_7.swf" />
+		<mov m="sfv_8.swf" />
+		<mov m="sfv_9.swf" />
+		<mov m="sfv_10.swf" />
+		<mov m="sfv_16.swf" />
+		<mov m="sfv_cade3.swf" />
+		<mov m="sfv_cade.swf" />
+		<mov m="sfv_lamp.swf" />
+		<mov m="sfv_mini.swf" />
+		<mov m="sfv_mini1.swf" />
+		<mov m="sfv_sbatte.swf" />
+		<mov m="sfv_vado.swf" />
+		<mov m="sfv_raptus.swf" />
+		<mov m="sfv_sbatto.swf" />
+		<mov m="sfv_sbatto.swf" />
+	</library>
+</lib>

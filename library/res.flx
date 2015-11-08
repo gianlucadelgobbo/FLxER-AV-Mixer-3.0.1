@@ -1,0 +1,34 @@
+<lib>
+	<library name="res.flx" path="library/_x_RES/">
+		<mov m="piastrelle.swf" />
+		<mov m="lana.swf" />
+		<mov m="pescara1.swf" />
+		<mov m="pescara2.swf" />
+		<mov m="pescara3.swf" />
+		<mov m="pescara4.swf" />
+		<mov m="pescara5.swf" />
+		<mov m="attacca.swf" />
+		<mov m="attaccala.swf" />
+		<mov m="estetista.swf" />
+		<mov m="estetista2.swf" />
+		<mov m="estetista3.swf" />
+		<mov m="ilcielosopraroma.swf" />
+		<mov m="q_qbocca01.swf" />
+		<mov m="q_qbocca02.swf" />
+		<mov m="q_qbocca03.swf" />
+		<mov m="q_qbocca04.swf" />
+		<mov m="q_qbocca05.swf" />
+		<mov m="q_qbocca06.swf" />
+		<mov m="q_qeye01.swf" />
+		<mov m="q_qeye03.swf" />
+		<mov m="q_righedanger01.swf" />
+		<mov m="q_ws_pop01.swf" />
+		<mov m="q_ws_rap01.swf" />
+		<mov m="q_ws_rap02.swf" />
+		<mov m="radica.swf" />
+		<mov m="ritratti.swf" />
+		<mov m="trittico.swf" />
+		<mov m="lpm.swf" />
+		<mov m="logoflyer.swf" />
+	</library>
+</lib>

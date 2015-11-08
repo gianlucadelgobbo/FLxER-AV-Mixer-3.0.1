@@ -1,0 +1,7 @@
+			<lib>
+			<library name="finki_nh.flx" path="library/no_hole/">
+<mov m="cicca_nh.swf" />
+<mov m="fields-rain_nh.swf" />
+<mov m="paperino_nh.swf" />
+</library>
+</lib>

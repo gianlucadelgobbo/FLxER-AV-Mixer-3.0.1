@@ -1,0 +1,8 @@
+			<lib>
+			<library name="nkid_nh.flx" path="library/no_hole/">
+<mov m="crown.swf" />
+<mov m="dragkingdom.swf" />
+<mov m="nkid.swf" />
+<mov m="streeart.swf" />
+</library>
+</lib>

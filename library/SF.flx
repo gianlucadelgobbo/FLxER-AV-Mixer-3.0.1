@@ -1,0 +1,12 @@
+<lib>
+	<library name="SF" path="library/_valeria/SF/">
+		<mov m="SF1.swf" />
+		<mov m="SF1_1.swf" />
+		<mov m="SF1_2.swf" />
+		<mov m="SF2.swf" />
+		<mov m="SF11.swf" />
+		<mov m="SF12.swf" />
+		<mov m="SF15.swf" />
+		<mov m="SF16.swf" />
+	</library>
+</lib>

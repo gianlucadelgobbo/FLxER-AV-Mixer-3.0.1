@@ -1,0 +1,9 @@
+			<lib>
+			<library name="vj_yoc_nh.flx" path="library/no_hole/">
+<mov m="bildinbild_dammi2.swf" />
+<mov m="rahmen1dreh.swf" />
+<mov m="rahmen2.swf" />
+<mov m="rahmen21.swf" />
+<mov m="rahmen3.swf" />
+</library>
+</lib>

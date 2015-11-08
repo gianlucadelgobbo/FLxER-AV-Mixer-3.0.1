@@ -1,0 +1,24 @@
+<lib>
+	<library name="anna.flx" path="library/no_hole/">
+		<mov m="=verde_taddei.fla" />
+		<mov m="=verde_taddei.swf" />
+		<mov m="=palline.fla" />
+		<mov m="=palline.swf" />
+		<mov m="=divano.fla" />
+		<mov m="=divano.swf" />
+		<mov m="=privati9ss.jpg" />
+		<mov m="=taddei-1ss.jpg" />
+		<mov m="=taddei6ss.jpg" />
+		<mov m="=taddeiss.jpg" />
+		<mov m="=carta-par-meglioss.jpg" />
+		<mov m="=20ss.jpg" />
+		<mov m="=carta-parati-3'3-buonass.jpg" />
+		<mov m="=17ss.jpg" />
+		<mov m="=clementina-010ss.jpg" />
+		<mov m="=costess.jpg" />
+		<mov m="=lampadario.fla" />
+		<mov m="=lampadario.swf" />
+		<mov m="=coste.fla" />
+		<mov m="=coste.swf" />
+	</library>
+</lib>

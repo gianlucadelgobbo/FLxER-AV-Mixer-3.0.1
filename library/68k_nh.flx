@@ -1,0 +1,10 @@
+			<lib>
+			<library name="68k_nh.flx" path="library/no_hole/">
+<mov m="BLD.swf" />
+<mov m="bubble.swf" />
+<mov m="karate_0.swf" />
+<mov m="m_001.swf" />
+<mov m="samuraiman.swf" />
+<mov m="vectorcomplete.swf" />
+</library>
+</lib>

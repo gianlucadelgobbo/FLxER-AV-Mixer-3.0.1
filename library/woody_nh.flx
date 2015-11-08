@@ -1,0 +1,10 @@
+			<lib>
+			<library name="woody_nh.flx" path="library/no_hole/">
+<mov m="dance4.swf" />
+<mov m="METRO1.swf" />
+<mov m="speaker1.swf" />
+<mov m="turntable.swf" />
+<mov m="turntableslow.swf" />
+<mov m="turntableslow_0.swf" />
+</library>
+</lib>

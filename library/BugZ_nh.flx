@@ -1,0 +1,18 @@
+			<lib>
+			<library name="BugZ_nh.flx" path="library/no_hole/">
+<mov m="crisalide.swf" />
+<mov m="dubbio03.swf" />
+<mov m="fera.swf" />
+<mov m="koan.swf" />
+<mov m="meta2_0.swf" />
+<mov m="sf02.swf" />
+<mov m="sf04.swf" />
+<mov m="sfondo.swf" />
+<mov m="sfondo2.swf" />
+<mov m="sfondo3.swf" />
+<mov m="shikantaza.swf" />
+<mov m="SNHcaos.swf" />
+<mov m="SNHshedevil.swf" />
+<mov m="why.swf" />
+</library>
+</lib>

@@ -1,0 +1,27 @@
+<lib>
+	<library name="pk_nh moblog" path="library/no_hole/">
+<mov m="237_moblog.swf" />
+<mov m="237_piantala_2.swf" />
+<mov m="ANELLI.swf" />
+<mov m="BRACCIALI.swf" />
+<mov m="SET.swf" />
+<mov m="barbie.swf" />
+<mov m="dalia11.swf" />
+<mov m="dalia7.swf" />
+<mov m="doomorama.swf" />
+<mov m="gaippe3.swf" />
+<mov m="metroB.swf" />
+<mov m="metroB1.swf" />
+<mov m="no_blog_star.swf" />
+<mov m="no_blog_star2.swf" />
+<mov m="P1.swf" />
+<mov m="ptc_1.swf" />
+<mov m="righegia.swf" />
+<mov m="righegia2.swf" />
+<mov m="SNZ_000007.swf" />
+<mov m="tokyo1.swf" />
+<mov m="tokyo2.swf" />
+<mov m="tokyo3.swf" />
+<mov m="tokyo4.swf" />
+	</library>
+</lib>

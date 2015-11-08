@@ -1,0 +1,34 @@
+<lib>
+	<library name="micromare.flx" path="library/piper/">
+
+		<mov m="gemelle_scortesi.swf" />
+		<mov m="gonna_blu.swf" />
+		<mov m="guida1.swf" />
+		<mov m="guida2.swf" />
+		<mov m="interno_gonna_rallenti1.swf" />
+		<mov m="interno_gonna_rallenti2.swf" />
+		<mov m="interno_gonna_tutto.swf" />
+		<mov m="mare1_intero.swf" />
+		<mov m="mare1_micro1.swf" />
+		<mov m="mare1_micro2.swf" />
+		<mov m="mare1_micro3.swf" />
+		<mov m="tetto_cielo.swf" />
+		<mov m="tetto_cielo_coscie1.swf" />
+		<mov m="tetto_cielo_coscie2.swf" />
+		<mov m="tetto_cielo_coscie3.swf" />
+		<mov m="tetto_cielo_coscie4.swf" />
+		<mov m="tetto_cielo_coscie_mix2.swf" />
+		<mov m="tetto_cielo_coscie_mix.swf" />
+		<mov m="tetto_cielo_gamba2.swf" />
+		<mov m="tetto_cielo_gamba.swf" />
+		<mov m="tetto_cielo_nuvole.swf" />
+		<mov m="tetto_sole.swf" />
+		<mov m="tuffo.swf" />
+		<mov m="japan_flowers1.flv" />
+		<mov m="japan_flowers2.flv" />
+		<mov m="japan_nuvole.flv" />
+		<mov m="japan_tree_3.flv" />
+		<mov m="tokyo_fuji.flv" />
+		<mov m="tokyo_geisha1.flv" />
+	</library>
+</lib>

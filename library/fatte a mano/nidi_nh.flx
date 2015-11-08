@@ -1,0 +1,11 @@
+<lib>
+	<library name="nidi_nh.flx" path="library/nidi_nh/">
+		<mov m="arana_1.swf" />
+		<mov m="arana_2.swf" />
+		<mov m="arana_3.swf" />
+		<mov m="arana_4.swf" />
+		<mov m="arana_5.swf" />
+		<mov m="arana_6.swf" />
+		<mov m="arana_7.swf" />
+	</library>
+</lib>

@@ -1,0 +1,7 @@
+			<lib>
+			<library name="stv_nh.flx" path="library/no_hole/">
+<mov m="bw_house.swf" />
+<mov m="red_night_hiway.swf" />
+<mov m="red_night_hiway2.swf" />
+</library>
+</lib>

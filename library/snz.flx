@@ -1,0 +1,42 @@
+<lib>
+	<library name="snz_nh" path="library/no_hole/">
+		<mov m="slideshow.swf" />
+		<mov m="marinai.swf" />
+		<mov m="camice.swf" />
+		<mov m="f2v_1.swf" />		
+		<mov m="f2v_2.swf" />	
+		<mov m="f2v_3.swf" />		
+		<mov m="83spooky.swf" />
+		<mov m="sleep.swf" />
+		<mov m="jt_snap.swf" />
+		<mov m="jemma_bn_1.swf" />
+		<mov m="jemma_bn_2.swf" />
+		<mov m="jemma_bn_3.swf" />
+		<mov m="jemma_bn_4.swf" />
+		<mov m="jt_COLOR_3.swf" />
+		<mov m="jt_mono.swf" />
+		<mov m="jt_red_white.swf" />
+		<mov m="jt_snap.swf" />
+		<mov m="midi3.swf" />
+		<mov m="237_red_02.swf" />
+		<mov m="SF1.swf" />
+		<mov m="SF11.swf" />
+		<mov m="SF12.swf" />
+		<mov m="SF15.swf" />
+		<mov m="SF16.swf" />
+		<mov m="SF1_1.swf" />
+		<mov m="SF1_2.swf" />
+		<mov m="SF2.swf" />
+		<mov m="SENO.swf" />
+		<mov m="sampo1_fast.swf" />
+		<mov m="sampo1_slow.swf" />
+		<mov m="sampo2_fast.swf" />
+		<mov m="sampo2_ffast.swf" />
+		<mov m="sampo2_slow.swf" />
+		<mov m="sampo2_slow2.swf" />
+		<mov m="sampo3.swf" />
+		<mov m="bus1.swf" />
+		<mov m="read.swf" />
+		
+	</library>
+</lib>

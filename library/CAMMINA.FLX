@@ -1,0 +1,54 @@
+<lib>
+	<library name="cammina.flx" path="library/cammina/">
+		<mov m="c_amsterdam.swf" />
+		<mov m="amsterdam_sedia.swf" />
+		<mov m="amsterdam_casa.swf" />
+		<mov m="cammina_bergamo_3.swf" />
+		<mov m="cammina_bergamo_4.swf" />
+		<mov m="cammina_bergamo_5.swf" />
+		<mov m="cammina_bergamo_22.swf" />
+		<mov m="cammina_bergamo_tot.swf" />
+		<mov m="cammina_capponi_1.swf" />
+		<mov m="cammina_capponi_2.swf" />
+		<mov m="cammina_capponi_3.swf" />
+		<mov m="cammina_capponi_4.swf" />
+		<mov m="cammina_capponi_4a.swf" />
+		<mov m="cammina_capponi_5.swf" />
+		<mov m="sarzana2.swf" />
+		<mov m="sarzana3.swf" />	
+		<mov m="cammina_capponi_6.swf" />
+		<mov m="cammina_capponi_6a.swf" />
+		<mov m="cammina_capponi_7.swf" />
+		<mov m="cammina_capponi_61.swf" />
+		<mov m="cammina_centralino.swf" />
+		<mov m="cammina_centralino_veloce.swf" />
+		<mov m="cammina_cucina.swf" />
+		<mov m="cammina_cucina_veloce.swf" />
+		<mov m="cammina_fadda.swf" />
+		<mov m="cammina_fadda_1.swf" />
+		<mov m="cammina_metro.swf" />
+		<mov m="cammina_pescara.swf" />
+		<mov m="cammina_scuola.swf" />
+<mov m="gialla_slow.swf" />
+<mov m="gialla_fast.swf" />
+<mov m="sampo3.swf" />
+<mov m="sampo2_slow2.swf" />
+<mov m="sampo2_slow.swf" />
+<mov m="sampo2_ffast.swf" />
+<mov m="sampo2_fast.swf" />
+<mov m="sampo1_slow.swf" />
+<mov m="sampo1_fast.swf" />
+<mov m="uttaro.swf" />
+<mov m="passi.swf" />
+<mov m="jt_sea2004_4.swf" />
+<mov m="jt_sea2004_2.swf" />
+<mov m="jt_sea2004_1.swf" />
+<mov m="jt_cammnia_mare3.swf" />
+<mov m="jt_cammnia_mare2.swf" />
+<mov m="jt_cammnia_mare.swf" />
+<mov m="cammmina33.swf" />
+<mov m="camminacroce.swf" />
+		<mov m="237_walk.swf" />
+<mov m="237_run.swf" />
+	</library>
+</lib>

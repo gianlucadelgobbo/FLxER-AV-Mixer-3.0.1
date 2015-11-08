@@ -1,0 +1,46 @@
+<artists>
+	<artist>
+		<nome>Anna Clementi</nome>
+		<titolo>Cos'hai</titolo>
+		<file>ddfestival/anna.jpg</file>
+	</artist>	
+	<artist>
+		<nome>AmiKristi and The Bad Sisters</nome>
+		<titolo>Si lo so</titolo>
+		<file>ddfestival/amikristi.jpg</file>
+	</artist>	
+	<artist>
+		<nome>Rodion</nome>
+		<titolo>Elektrik Soca</titolo>
+		<file>ddfestival/rodion.jpg</file>
+	</artist>
+	<artist>
+		<nome>Re:Joyce</nome>
+		<titolo>Rain</titolo>
+		<file>ddfestival/gullotta.jpg</file>
+	</artist>
+	<artist>
+		<nome>The Wow's</nome>
+		<titolo>Cul troppo cul</titolo>
+		<file>ddfestival/sergio.jpg</file>
+	</artist>
+
+	<artist>
+		<nome>La Cinese</nome>
+		<titolo>Hong Kong Mambo</titolo>
+		<file>ddfestival/cinese.jpg</file>
+	</artist>
+
+	<artist>
+		<nome>Lady Marù</nome>
+		<titolo>No News For Yesterday</titolo>
+		<file>ddfestival/maru.jpg</file>
+	</artist>
+
+
+	<artist>
+		<nome>Phonola</nome>
+		<titolo>Valentine's Day</titolo>
+		<file>ddfestival/phonola.jpg</file>
+	</artist>
+</artists>

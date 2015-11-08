@@ -1,0 +1,8 @@
+			<lib>
+			<library name="iliat_nh.flx" path="library/no_hole/">
+<mov m="autonom.swf" />
+<mov m="butterfly.swf" />
+<mov m="coral.swf" />
+<mov m="coral_0.swf" />
+</library>
+</lib>

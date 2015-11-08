@@ -1,0 +1,8 @@
+			<lib>
+			<library name="spad_nh.flx" path="library/no_hole/">
+<mov m="contact.swf" />
+<mov m="powerwather-1.swf" />
+<mov m="powerwather-2.swf" />
+<mov m="swordfishexplotion.swf" />
+</library>
+</lib>
